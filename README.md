@@ -10,3 +10,4 @@ Bibliotecas utilizadas:
 3) Matplotlib
 4) Scikit Learn
 5) CatBoost
+6) XGBoost
