@@ -11,3 +11,13 @@ Bibliotecas utilizadas:
 4) Scikit Learn
 5) CatBoost
 6) XGBoost
+---
+Nesse exemplo, alguns conceitos simples de manipulação de dados podem ser observados, como:
+1) Como preencher valores em branco de uma coluna baseado na média dessa coluna referente à outras colunas;
+2) Como agrupar valores de uma coluna em outra, para uma análise mais geral da variável;
+3) Tratamento de dados numéricos e categóricos;
+4) Diferentes modelos de Machine Learning e suas predições.
+---
+O resultado desse Workbook, no Kaggle, foi de: 75,119%.
+Porém não foi o melhor resultado que obtive, que foi de 77,751%.
+Principal diferença entre as análises: Coluna em que me baseei para preencher os valores nulos da coluna 'Age'.
