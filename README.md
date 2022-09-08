@@ -7,7 +7,7 @@ O exercício foi realizado baseado na competição Titanic, disponível no site 
 Bibliotecas utilizadas:
 1) NumPy
 2) Pandas
-3) Matplotli
+3) Matplotlib
 4) Seaborn
 5) Scikit Learn
 6) CatBoost
