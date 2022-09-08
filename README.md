@@ -7,10 +7,11 @@ O exercício foi realizado baseado na competição Titanic, disponível no site 
 Bibliotecas utilizadas:
 1) NumPy
 2) Pandas
-3) Matplotlib
-4) Scikit Learn
-5) CatBoost
-6) XGBoost
+3) Matplotli
+4) Seaborn
+5) Scikit Learn
+6) CatBoost
+7) XGBoost
 ---
 Nesse exemplo, alguns conceitos simples de manipulação de dados podem ser observados, como:
 1) Como preencher valores em branco de uma coluna baseado na média dessa coluna referente à outras colunas;
