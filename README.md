@@ -19,5 +19,7 @@ Nesse exemplo, alguns conceitos simples de manipulação de dados podem ser obse
 4) Diferentes modelos de Machine Learning e suas predições.
 ---
 O resultado desse Workbook, no Kaggle, foi de: 75,119%.
+
 Porém não foi o melhor resultado que obtive, que foi de 77,751%.
+
 Principal diferença entre as análises: Coluna em que me baseei para preencher os valores nulos da coluna 'Age'.
